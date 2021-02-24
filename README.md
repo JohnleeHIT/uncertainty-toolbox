@@ -164,11 +164,11 @@ development:
 
 ## Acknowledgments
 
-Development of Uncertainty Toolbox has been [supported by](docs/acknowledgments.md) the following organizations.
+Development of Uncertainty Toolbox is [supported by](docs/acknowledgments.md) the following organizations.
 <p align="top">
-    <img src="docs/assets/acks_aws.svg" width="8%">
+    <img src="docs/assets/acks_aws.svg" width="7%">
     &nbsp; &nbsp;
-    <img src="docs/assets/acks_doe.png" width="9%">
+    <img src="docs/assets/acks_doe.png" width="8%">
     &nbsp; &nbsp;
-    <img src="docs/assets/acks_nsf.png" width="10%">
+    <img src="docs/assets/acks_nsf.png" width="9%">
 </p>
